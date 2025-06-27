@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import SimpleForm from './SimpleForm';
+import SimpleForm from './components/SimpleForm';
 
 function App() {
   return (
